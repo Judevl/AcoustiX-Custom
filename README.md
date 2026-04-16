@@ -47,7 +47,7 @@ Before using the custom version, you must use the **original A1 Evo AcoustiX** f
 Follow this specific order to ensure the files interact correctly:
 
 1.  **Launch the original A1 Evo AcoustiX** file first.
-2.  **Launch the AcoustiX Custom Version** (e.g., `AcoustiX-Custom-win-x64.exe`).
+2.  **Launch the AcoustiX Custom Version** (e.g., `AcoustiX-Custom-win.exe`).
 3.  Your browser will automatically open the interface at: `http://localhost:8090`
 4.  All your generated calibrations and logs will be saved in the `OCA_Files` folder at the root.
 
