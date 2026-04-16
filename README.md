@@ -21,7 +21,7 @@ Special thanks to **OCA** for authorizing the share of this custom version. This
 
 ## ⚙️ Setup Instructions
 
-### 1. Mandatory Pre-requisites (REW API)
+### Mandatory Pre-requisites (REW API)
 
 Before launching the software, you must ensure **REW (Room EQ Wizard)** is configured correctly:
 
@@ -29,18 +29,6 @@ Before launching the software, you must ensure **REW (Room EQ Wizard)** is confi
 - Go to **Preferences** -> **API**.
 - Click **"Start Server"**
 - The port should be set to the default (**4735**).
-
-### 2. Prepare the original A1 Evo AcoustiX
-
-- **Find your OS version:** Open the folder named `AcoustiX_v2026_03_26`.
-- **Copy & Paste:** Copy the original file (e.g., `a1-evo-acoustix-win.exe`, `a1-evo-acoustix-macos`, etc.).
-- **Place at Root:** Paste it into the **root directory** of this project.
-
-### 3. Prepare the AcoustiX Custom Version
-
-- **Locate your build:** Open the folder named `AcoustiX_custom`.
-- **Copy & Paste:** Copy the file matching your OS (e.g., `AcoustiX-Custom-win-x64.exe`).
-- **Place at Root:** Paste it into the **root directory** (the same folder as the original file).
 
 ---
 
