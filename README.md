@@ -1,5 +1,8 @@
 # AcoustiX - Custom Version
 
+> [!CAUTION]
+> **Compatibility:** This version works **only** for Audyssey **MultEQ XT** systems.
+
 This is a **Custom Version of AcoustiX** designed to provide advanced control over filter generation. It introduces the ability to define multiple manual frequency zones for automated filter creation.
 
 ---
