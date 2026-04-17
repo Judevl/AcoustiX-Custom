@@ -1,9 +1,11 @@
 # AcoustiX - Custom Version
 
-> [!CAUTION]
-> **Compatibility:** This version works **only** for Audyssey **MultEQ XT** systems.
+This is a **Custom Version of AcoustiX** designed to provide advanced control over filter generation.
 
-This is a **Custom Version of AcoustiX** designed to provide advanced control over filter generation. It introduces the ability to define multiple manual frequency zones for automated filter creation.
+> [!NOTE]
+> This tool allows you to generate filters by specific frequency ranges that will be **active simultaneously on both FLAT and REFERENCE settings** of your Denon / Marantz AVR.
+>
+> It is specifically designed for **Audyssey MultEQ XT** users who want to experiment customized corrections on their speakers in the mid and high frequencies.
 
 ---
 
